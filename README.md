@@ -1,7 +1,7 @@
 # pirase
 Port of RASE library to Rasberry Pi
 
-This libray contains functions used to create real-time systems on DOS and WIN32.
+This library contains functions used to create real-time systems on DOS and WIN32.
 
 Currently for the RPI these are:
 
